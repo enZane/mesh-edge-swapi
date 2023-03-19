@@ -1,0 +1,5 @@
+sources:
+  - name: Pokeapi
+    handler:
+      graphql:
+        endpoint: https://swapi-graphql.netlify.app/.netlify/functions/index

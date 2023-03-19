@@ -1,0 +1,7 @@
+name = "mesh-worker"
+main = "src/index.js"
+compatibility_date = "2023-03-18"
+usage_model = "bundled"
+
+[build]
+command = "yarn mesh build"
